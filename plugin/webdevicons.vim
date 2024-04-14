@@ -217,7 +217,7 @@ function! s:setDictionaries()
         \ 'cc'       : '',
         \ 'cp'       : '',
         \ 'c'        : '',
-        \ 'cs'       : '',
+        \ 'cs'       : '󰌛',
         \ 'h'        : '',
         \ 'hh'       : '',
         \ 'hpp'      : '',
@@ -278,14 +278,14 @@ function! s:setDictionaries()
         \ 'tsx'      : '',
         \ 'jl'       : '',
         \ 'pp'       : '',
-        \ 'vue'      : '﵂',
+        \ 'vue'      : '',
         \ 'elm'      : '',
         \ 'swift'    : '',
         \ 'xcplayground' : '',
-        \ 'tex'      : 'ﭨ',
-        \ 'r'        : 'ﳒ',
-        \ 'rproj'    : '鉶',
-        \ 'sol'      : 'ﲹ',
+        \ 'tex'      : '',
+        \ 'r'        : '',
+        \ 'rproj'    : '',
+        \ 'sol'      : '󰚍',
         \ 'pem'      : ''
         \}
 
@@ -319,14 +319,14 @@ function! s:setDictionaries()
         \ 'node_modules'                     : '',
         \ 'react.jsx'                        : '',
         \ 'procfile'                         : '',
-        \ 'dockerfile'                       : '',
-        \ 'docker-compose.yml'               : '',
+        \ 'dockerfile'                       : '',
+        \ 'docker-compose.yml'               : '',
         \ 'rakefile'                         : '',
         \ 'config.ru'                        : '',
         \ 'gemfile'                          : '',
         \ 'makefile'                         : '',
         \ 'cmakelists.txt'                   : '',
-        \ 'robots.txt'                       : 'ﮧ'
+        \ 'robots.txt'                       : '󰚩'
         \}
 
   let s:file_node_pattern_matches = {
